@@ -105,7 +105,6 @@ for (let i = 0; i < collection.length; i++) {
             searchBox.style.display = "flex"
             searchBox.style.flexWrap = "wrap"
 
-
             searchBox.appendChild(buttonClosed)
             plat(searchBox)
         }
